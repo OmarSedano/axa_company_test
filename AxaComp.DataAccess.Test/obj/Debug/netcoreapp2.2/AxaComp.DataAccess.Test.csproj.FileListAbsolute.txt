@@ -1,0 +1,14 @@
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.deps.json
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.runtimeconfig.json
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.runtimeconfig.dev.json
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\bin\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.pdb
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\obj\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.csprojAssemblyReference.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\obj\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.csproj.CoreCompileInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\obj\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.AssemblyInfoInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\obj\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.AssemblyInfo.cs
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\obj\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.DataAccess.Test\obj\Debug\netcoreapp2.2\AxaComp.DataAccess.Test.pdb

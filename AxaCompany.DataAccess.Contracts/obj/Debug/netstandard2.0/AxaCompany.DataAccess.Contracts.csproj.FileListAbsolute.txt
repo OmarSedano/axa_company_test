@@ -1,0 +1,9 @@
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\bin\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.deps.json
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\bin\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\bin\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.pdb
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\obj\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.csprojAssemblyReference.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\obj\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\obj\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\obj\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.AssemblyInfo.cs
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\obj\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.DataAccess.Contracts\obj\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.pdb

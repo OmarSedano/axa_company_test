@@ -1,0 +1,14 @@
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.csprojAssemblyReference.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.csproj.CoreCompileInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.AssemblyInfoInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.AssemblyInfo.cs
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.Business.Impl.deps.json
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.Business.Impl.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.Business.Impl.pdb
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.Business.Contracts.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.Business.Contracts.pdb
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\bin\Debug\netstandard2.0\AxaCompany.DataAccess.Contracts.pdb
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.csproj.CopyComplete
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaCompany.Business.Impl\obj\Debug\netstandard2.0\AxaCompany.Business.Impl.pdb

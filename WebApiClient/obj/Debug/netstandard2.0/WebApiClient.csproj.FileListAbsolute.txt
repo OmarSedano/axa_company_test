@@ -1,0 +1,9 @@
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\bin\Debug\netstandard2.0\WebApiClient.deps.json
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\bin\Debug\netstandard2.0\WebApiClient.dll
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\obj\Debug\netstandard2.0\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\obj\Debug\netstandard2.0\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\obj\Debug\netstandard2.0\WebApiClient.AssemblyInfo.cs
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\obj\Debug\netstandard2.0\WebApiClient.csprojAssemblyReference.cache
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\bin\Debug\netstandard2.0\WebApiClient.pdb
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\obj\Debug\netstandard2.0\WebApiClient.dll
+C:\Users\OmarS\source\repos\AXACompany\WebApiClient\obj\Debug\netstandard2.0\WebApiClient.pdb

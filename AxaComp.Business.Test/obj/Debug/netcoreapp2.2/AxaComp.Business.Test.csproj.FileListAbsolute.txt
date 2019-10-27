@@ -1,0 +1,14 @@
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\AxaComp.Business.Test.deps.json
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\AxaComp.Business.Test.runtimeconfig.json
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\AxaComp.Business.Test.runtimeconfig.dev.json
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\AxaComp.Business.Test.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\bin\Debug\netcoreapp2.2\AxaComp.Business.Test.pdb
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\obj\Debug\netcoreapp2.2\AxaComp.Business.Test.csprojAssemblyReference.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\obj\Debug\netcoreapp2.2\AxaComp.Business.Test.csproj.CoreCompileInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\obj\Debug\netcoreapp2.2\AxaComp.Business.Test.AssemblyInfoInputs.cache
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\obj\Debug\netcoreapp2.2\AxaComp.Business.Test.AssemblyInfo.cs
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\obj\Debug\netcoreapp2.2\AxaComp.Business.Test.dll
+C:\Users\OmarS\source\repos\AXACompany\AxaComp.Business.Test\obj\Debug\netcoreapp2.2\AxaComp.Business.Test.pdb
